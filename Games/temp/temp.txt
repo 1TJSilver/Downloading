@@ -1,0 +1,9 @@
+src was created in 2022-07-06T15:17:19.486780200
+res was created in 2022-07-06T15:17:19.486780200
+savegames was created in 2022-07-06T15:17:19.486780200
+temp was created in 2022-07-06T15:17:19.486780200
+main was created in 2022-07-06T15:17:19.486780200
+test was created in 2022-07-06T15:17:19.486780200
+Main.java was created in 2022-07-06T15:17:19.486780200
+Utils.java was created in 2022-07-06T15:17:19.486780200
+temp.txt was created in 2022-07-06T15:17:19.486780200
